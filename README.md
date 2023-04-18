@@ -1,6 +1,6 @@
  
 # Frontend Mentor - Results summary component
-[Live site URL here](https://link-url-here.org)
+[Live site URL here](https://babar1532.github.io/Result-summary-compo/)
 
 This is a solution to the [Results summary component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/results-summary-component-CE_K6s0maV). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
@@ -29,8 +29,8 @@ Users should be able to:
  
 ### Links
 
-- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/nft-preview-card-component-using-flexbox-and-bem-method-qVh5_cdoPg)
-- Live Site URL: [Live site URL here](https://lere22.github.io/nft-preview-card-component/)
+- Solution URL: [Solution URL here](https://github.com/BABAR1532/Result-summary-compo)
+- Live Site URL: [Live site URL here](https://babar1532.github.io/Result-summary-compo/)
 
 
 ## My process
